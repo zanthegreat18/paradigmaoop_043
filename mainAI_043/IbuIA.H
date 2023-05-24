@@ -25,3 +25,5 @@ void ibu::cetakAnak() {
 		cout << a->nama << "\n";
 	}
 	cout << endl;
+};
+#endif
