@@ -23,5 +23,8 @@
     <ClInclude Include="Anak.H">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="IbuIA.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
